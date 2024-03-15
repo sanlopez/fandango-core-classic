@@ -1,0 +1,11 @@
+[DDBB]
+HOST = localhost
+USER = fandango
+DATABASE = fandango_core
+PASS = putHereYourPass
+
+[PLUGINS]
+PATH = putHereYourPathToFandanGOPlugins
+
+[CONDA]
+ENVS_PATH = putHereYourPathToCondaEnvs

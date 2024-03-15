@@ -1,0 +1,11 @@
+{
+    "createProject": [],
+    "deleteProject": [
+        {"name": "--projectId", "help": "ID of the project to delete", "required": true}
+    ],
+    "copyData": [
+        {"name": "--plugin", "help": "Name of the plugin to use to copy the data", "required": true},
+        {"name": "--projectId", "help": "ID of the project to delete", "required": true},
+        {"name": "--rawData", "help": "Path of the raw data", "required": true}
+    ]
+}
